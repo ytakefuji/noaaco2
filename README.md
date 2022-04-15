@@ -11,6 +11,8 @@ noaaco2 scrapes the latest csv file from the following NOAA site:
 
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
 
+noaaco2 can generate a graph with specified months and save it in result.csv and noaaco2.png.
+
 In order to run noaaco2 application, Python must be installed on your system.
 # How to install Python and noaaco2
 <pre>
