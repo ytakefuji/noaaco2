@@ -9,7 +9,7 @@ As long as Python is installed, you can use it without being aware of the operat
 
 noaaco2 scrapes the latest csv file from the following site:
 
-
+ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
 
 In order to run noaaco2 application, Python must be installed on your system.
 # How to install Python and noaaco2
