@@ -5,7 +5,7 @@ noaaco2 is a PyPI application that scrapes the latest dataset from NOAA via the 
 displays a graph for a specified number of months.
 
 The PyPI environment allows PyPI applications to run on Windows, MacOS, and Linux operating systems.
-As long as Python is installed, you can use it without being aware of the operating system.
+As long as Python is installed on the system, you can use it without being aware of the operating system.
 
 noaaco2 scrapes the latest csv file from the following site:
 
