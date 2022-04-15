@@ -39,7 +39,7 @@ $ sudo apt install wget
 noaaco2 takes a single parameter for specifying the number of months. 
 Without the number of months, noaaco2 shows a graph with all months in the dataset.
 
-$ noaaco2 <number-of-months>
+$ noaaco2 \<number-of-months\>
 
 or
 
