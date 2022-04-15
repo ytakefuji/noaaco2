@@ -43,4 +43,5 @@ For example, 24 months, run the following command.
 
 $ noaaco2 24
 
-<img src='noaaco2.png' 
+<img src='https://github.com/ytakefuji/noaaco2/raw/main/noaaco2.png' width=850 height=340 >
+ 
