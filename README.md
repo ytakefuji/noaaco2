@@ -7,7 +7,7 @@ displays a graph for a specified number of months.
 The PyPI environment allows PyPI applications to run on Windows, MacOS, and Linux operating systems.
 As long as Python is installed on the system, you can use it without being aware of the operating system.
 
-noaaco2 scrapes the latest csv file from the following site:
+noaaco2 scrapes the latest csv file from the following NOAA site:
 
 ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
 
