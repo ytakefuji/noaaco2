@@ -43,6 +43,8 @@ $ noaaco2 \<number-of-months\>
 
 or
 
+$ noaaco2
+
 For example, 24 months, run the following command.
 
 $ noaaco2 24
