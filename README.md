@@ -24,7 +24,7 @@ Follow the Python installation steps for Windows, WSL on Windows, MacOS, and Lin
 1. Download a right installation file from miniconda site:
 https://docs.conda.io/en/latest/miniconda.html
 
-2. X-server installation is needed.
+2. X-server installation may be needed.
 For Windows 11 or 10,WSL on Windows 11 or 10, MacOS, X-server must be installed.
 X-server for Windows and WSL on Windows, install VcXsrv Windows X Server.
 You can download it from the following site:
