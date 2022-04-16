@@ -1,4 +1,8 @@
 # noaaco2
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](https://codeocean.com/capsule/1444046/tree)
+
+Takefuji Y. (2022) noaaco2: PyPI application for displaying a CO2 graph based on NOAA [Source Code]. https://doi.org/10.24433/CO.7957917.v1
+
 This is a tutorial to debut a PyPI application and to validate software reproducibility for climate professions.
 
 noaaco2 is a PyPI application that scrapes the latest dataset from NOAA via the Internet and 
