@@ -28,12 +28,15 @@ ftp://aftp.cmdl.noaa.gov/products/trends/co2/co2_mm_mlo.csv
 # Missing months have been interpolated	 for NOAA data indicated by negative stdev						
 # and uncertainty. We have no information for SIO data about Ndays	 stdv	 unc					
 # so that they are also indicated by negative numbers							
-year	month	decimal date	average	interpolated	trend	ndays	
-1958	3	1958.2027	315.7	314.43	-1	-9.99	-0.99
-1958	4	1958.2877	317.45	315.16	-1	-9.99	-0.99
-1958	5	1958.3699	317.51	314.71	-1	-9.99	-0.99
-1958	6	1958.4548	317.24	315.14	-1	-9.99	-0.99
-1958	7	1958.537	315.86	315.18	-1	-9.99	-0.99
+# Monthly values are corrected to center of month based on average seasonal,,,,,,,
+# cycle. Missing days can be asymmetric which would produce a high or low bias.,,,,,,,
+# Missing months have been interpolated, for NOAA data indicated by negative stdev,,,,,,
+# and uncertainty. We have no information for SIO data about Ndays, stdv, unc,,,,,
+# so that they are also indicated by negative numbers,,,,,,,
+year,month,decimal date,average,interpolated,trend,ndays,
+1958,3,1958.2027,315.7,314.43,-1,-9.99,-0.99
+1958,4,1958.2877,317.45,315.16,-1,-9.99,-0.99
+1958,5,1958.3699,317.51,314.71,-1,-9.99,-0.99
 ...
 </pre>
 
