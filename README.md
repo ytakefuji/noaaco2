@@ -40,9 +40,6 @@ year,month,decimal date,average,interpolated,trend,ndays,
 ...
 </pre>
 
-![image](https://user-images.githubusercontent.com/12127408/164959356-4453ae93-9333-4305-a419-ddfba1d354ef.png)
-
-
 noaaco2 can generate a graph with specified months and save it in result.csv and noaaco2.png.
 
 In order to run noaaco2 application, Python must be installed on your system.
